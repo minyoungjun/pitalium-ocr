@@ -10,3 +10,6 @@ Tess4j is library for using Tesseract in java.
 2. [Tesseract](https://github.com/tesseract-ocr/tesseract)
 
 If you didn't install Tesseract, Eclipse will show error messages.
+
+ps.
+This code contains Tess4j, so you don't need to find Tess4j.
